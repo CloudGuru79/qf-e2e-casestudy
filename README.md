@@ -12,11 +12,11 @@ Auto Scaling should include below steps: -
 
 Minimum there should be 1 server running and maximum there will be 4. If the server utilization reached 75%, another instance should be added in the cluster and if the application reaches 75%, another container/pod should launch.
 
-GitRepo:- https://github.com/gokula1995/JenkinsDemo.git
+GitRepo:- https://github.com/quickfixtech/qf-jenkinsDemo.git
 
 	•	Create a Pipeline to deploy a static HTML code on S3 bucket with single click deployment.
 
-GitRepo:- https://github.com/gokula1995/angular-realworld-example-app.git
+GitRepo:- https://github.com/quickfixtech/qf-angular-realworld-example-app.git
 
 	•	Create an IAM role which has Read-Only access to only 1 EC2 machine in JSON format.
 
